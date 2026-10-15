@@ -1,0 +1,22 @@
+site_id,site_name,county,latitude,longitude,pm25
+SJ01,San Jose - Jackson St,Santa Clara,37.3485,-121.8950,48.6
+SJ02,San Jose - Knox Ave,santa clara ,37.3381,-121.8499,52.1
+GIL1,Gilroy,Santa Clara County,37.0001,-121.5747,61.3
+LGT1,Los Gatos,Santa Clara,37.2267,-121.9796,44.0
+RWC1,Redwood City,San Mateo,37.4828,-122.2022,39.8
+HMB1,Half Moon Bay,San Mateo,37.4636,-122.4286,no data
+SF01,San Francisco - Arkansas St,San Francisco,37.7658,-122.3978,41.2
+OAK1,Oakland West,Alameda,37.8148,-122.2823,45.7
+OAK2,Oakland - Laney College,ALAMEDA,37.7934,-122.2633,47.9
+BRK1,Berkeley - Aquatic Park,Alameda,37.8645,-122.3028,43.5
+FRE1,Fremont - Chapel Way,Alameda,37.5359,-121.9618,50.4
+LIV1,Livermore,Alameda,37.6875,-121.7842,66.8
+CON1,Concord,Contra Costa,37.9361,-122.0262,58.2
+SPB1,San Pablo,Contra Costa,37.9604,-122.3571,
+BTH1,Bethel Island,Contra Costa,38.0064,-121.6419,63.5
+SRF1,San Rafael,Marin,37.9722,-122.5189,35.1
+VAL1,Vallejo,Solano,38.1027,-122.2378,40.3
+VAC1,Vacaville,Solano,38.3524,-121.9601,55.6
+NAP1,Napa,Napa,38.3110,-122.2961,37.9
+SRO1,Santa Rosa,Sonoma,38.4436,-122.7101,33.4
+SEB1,Sebastopol,Sonoma,38.4031,-122.8187,30.2

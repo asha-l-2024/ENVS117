@@ -1,0 +1,15 @@
+site_id,creek,latitude,longitude,water_temp_c,do_mg_l
+GUA1,Guadalupe River,37.3330,-121.9000,21.4,6.4
+GUA2,guadalupe river ,37.3700,-121.9330,22.9,4.6
+GUA3,Guadalupe River,37.2750,-121.8730,18.2,7.9
+COY1,Coyote Creek,37.2760,-121.8050,19.6,6.9
+COY2,Coyote creek,37.3550,-121.8790,23.5,4.1
+COY3,COYOTE CREEK,37.4120,-121.9230,24.1,--
+LGC1,Los Gatos Creek,37.2350,-121.9630,16.8,8.6
+LGC2,Los Gatos Creek,37.3150,-121.9020,20.7,7.0
+STV1,Stevens Creek,37.3260,-122.0620,15.9,8.2
+STV2, Stevens Creek,37.4040,-122.0700,21.8,5.3
+SAR1,Saratoga Creek,37.2700,-122.0230,16.4,8.8
+SFQ1,San Francisquito Creek,37.4280,-122.1720,17.3,
+UVA1,Uvas Creek,37.0130,-121.5900,18.9,6.3
+LLA1,Llagas Creek,37.1300,-121.6500,22.6,4.8
